@@ -15,7 +15,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/bank-management-api.git
+    git clone https://github.com/nesuh/bank-management-api.git
     cd bank-management-api
     ```
 
